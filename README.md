@@ -8,6 +8,8 @@ Simulator for the Codenames board game. Generate clues to get your team to guess
 
    1.1. May work best for words within a category. But produces strange results for words that are not closely related.
 
+   1.2. Could use this metric only for word pairs with similarity above a given threshold.
+
 2. WordNet relationships can be used to identify categorically or functionally similar words.
 
    2.1. These relationships can be mapped visually and easily interpreted.
