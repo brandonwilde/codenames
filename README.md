@@ -29,3 +29,5 @@ Simulator for the Codenames board game. Generate clues to get your team to guess
 4. Use an LLM to explain clues and guesses.
 
 5. Use an LLM to generate new WordNet-like relationships, and build a new WordNet graph (doesn't need to handle too many words - maybe 100).
+
+_Inspired by the board game Codenames, by Vlaada Chvátil and [this Medium article](https://towardsdatascience.com/hacking-codenames-with-glove-embeddings-0cf928af0858) by Zhiheng Jian._
